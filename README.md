@@ -6,7 +6,7 @@ Welcome to the Flutter Internship Assignment repository! This project demonstrat
 This project is created as part of an internship assignment. It showcases a Flutter application that includes various functionalities such as navigation, API integration, and state management.
 
 ## Features
-
+- Web View Website Flutter App
 - User authentication
 - Real-time data fetching
 - Responsive UI
