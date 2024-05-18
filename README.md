@@ -18,17 +18,19 @@ This project is created as part of an internship assignment. It showcases a Flut
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/flutter_internship_assignment.git
-   cd flutter_internship_assignment
+   -git clone https://github.com/yourusername/flutter_internship_assignment.git
+   -cd flutter_internship_assignment
 
-   Run App
-   1.flutter clean
-   2.flutter pub get
-   3.flutter run
+  # Run App
+ -  1.flutter clean
+ -  2.flutter pub get
+ -  3.flutter run
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+# Output
+![Screenshot (355)](https://github.com/kiransatdive/flutter_intership_assignment/assets/98806225/0145d6c2-eacc-4971-8164-e32516a7f6fa)
 
 A few resources to get you started if this is your first Flutter project:
 
