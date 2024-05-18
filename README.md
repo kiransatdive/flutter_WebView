@@ -18,7 +18,7 @@ This project is created as part of an internship assignment. It showcases a Flut
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   -git clone https://github.com/yourusername/flutter_internship_assignment.git
+   -git clone https://github.com/kiransatdive/flutter_intership_assignment.git
    -cd flutter_internship_assignment
 
   # Run App
