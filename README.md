@@ -1,6 +1,30 @@
 # flutter_intership_assignment
 
-A new Flutter project.
+Welcome to the Flutter Internship Assignment repository! This project demonstrates my skills and knowledge in Flutter development.
+## Introduction
+
+This project is created as part of an internship assignment. It showcases a Flutter application that includes various functionalities such as navigation, API integration, and state management.
+
+## Features
+
+- User authentication
+- Real-time data fetching
+- Responsive UI
+- State management with Provider
+- Custom animations
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/flutter_internship_assignment.git
+   cd flutter_internship_assignment
+
+   Run App
+   1.flutter clean
+   2.flutter pub get
+   3.flutter run
 
 ## Getting Started
 
